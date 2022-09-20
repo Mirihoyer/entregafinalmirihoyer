@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "material": "Madera",
+        "medida": 45,
+        "color": "Natural",
+        "stock": 100,
+        "precio": 150,
+        "cantidad": 0,
+        "descripcion": "Percha Importada de color Natural, mide 45 cm",
+        "imagen": "perchamadera.jpg"
+    },
+    {
+        "id": 2,
+        "material": "Madera",
+        "medida": 45,
+        "color": "Chocolate",
+        "stock": 100,
+        "precio": 180,
+        "cantidad": 0,
+        "descripcion": "Percha Importada de color Chocolate, mide 45 cm",
+        "imagen": "perchamaderachocolate.jpg"
+    },
+    {
+        "id": 3,
+        "material": "Madera",
+        "medida": 45,
+        "color": "Blanco",
+        "stock": 100,
+        "precio": 200,
+        "cantidad": 0,
+        "descripcion": "Percha Importada de color Blanco, mide 45 cm",
+        "imagen": "perchamadbco.jpg"
+    }
+]
